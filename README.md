@@ -63,8 +63,6 @@
 ## 📫 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ambroise-laroye-langouet)  
-- 📄 [Resume](assets/CV_laroye.pdf)
-
 
 <!--
 **Ambroise012/ambroise012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
