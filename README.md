@@ -54,9 +54,9 @@
 ---
 
 ### 🎨 Tools & Design  
-| VS Code | Streamlit |
-|---------|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/> | <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="45"/> |
+| VS Code | Streamlit | Gradio |
+|---------|-----------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/> | <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="45"/> | <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gradio-color.png" width="45"/>
 
 ---
 
